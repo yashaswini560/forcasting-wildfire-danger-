@@ -1,2 +1,2 @@
-# forcasting-wildfire-danger
+# forecasting-wildfire-danger
 forcasting wildfire danger with deep learning
